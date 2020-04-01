@@ -1,6 +1,6 @@
 # German: Laufende Kosten
 Ein kleines Spreadsheet mit dem ich meine laufenden Gas, Strom und Wasserverbräuche grafisch anzeige.
-Zählerwechsel und Strom/Gasanbieter- wechsel sind auch enthalten.
+Zählerwechsel und Strom/Gasanbieter- wechsel, sowie eine Photovoltaik anlage sind auch enthalten.
 
 # English: Running Costs
 
